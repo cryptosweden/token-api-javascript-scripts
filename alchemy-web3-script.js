@@ -2,7 +2,7 @@
 import { createAlchemyWeb3 } from "@alch/alchemy-web3";
 
 // Replace with your Alchemy api key:
-const apiKey = "5qOvk_h6bgTaYo9wxR202";
+const apiKey = "demo";
 
 // Initialize an alchemy-web3 instance:
 const web3 = createAlchemyWeb3(
